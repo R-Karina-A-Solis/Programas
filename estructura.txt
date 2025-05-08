@@ -1,0 +1,39 @@
+1. Lapicero
+Tipo de punta: fina, media, gruesa.
+Color: rojo, negro, azul.
+Marca: layconsa, pilot, faber Castell
+
+2. Mochila
+Marca: volker, porta, nike
+Tamano: pequeno, mediano, grande
+Color: azul, negro, rosa palo
+
+3. Cable UTP
+Categoria: 3, 5e, 6A
+Velocidad: 10 Mbps, 100 Mbps, 10 Gbps
+Longitud: 1 m, 3 m, 10 m
+
+4. Laptop
+Marca: HP, Dell, Lenovo
+RAM: 4 GB, 8 GB, 16 GB
+Procesador: Intel i5, Intel i7, AMD Ryzen 5
+
+5. IDE
+Nombre: Visual Studio Code, NetBeans, PyCharm
+Lenguaje compatible: Java, Python, C++
+Sistema operativo: Windows, Linux, macOS
+
+6. Monitor externo
+Tamano: 21”, 24”, 27”
+Resolución: HD, Full HD, 4K
+Tipo de panel: TN, IPS, VA
+
+7. USB
+Capacidad: 8 GB, 16 GB, 64 GB
+Version: 2.0, 3.0, 3.1
+Forma: Tradicional, OTG, tipo C
+
+8. Variable estadística
+Tipo: Cualitativa, Cuantitativa
+Subtipo: Nominal, Ordinal, Discreta, Continua
+Ejemplo: Color de ojos, Numero de hijos, Altura
