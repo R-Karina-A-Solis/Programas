@@ -45,7 +45,7 @@ int main() {
 
     // Agregamos los cursos en orden de prerequisitos
     agregarNodo(listaCursos, "ANALISIS Y DISENOS DE ALGORITMOS");
-    agregarNodo(listaCursos, "ESTRUCTURA DE DATOS");
+    agregarNodo(listaCursos, "ESTRUCTURA DE DATOS" );
     agregarNodo(listaCursos, "SISTEMAS DE GESTION DE BASE DE DATOS I");
     agregarNodo(listaCursos, "SISTEMAS DE GESTION DE BASE DE DATOS II");
     agregarNodo(listaCursos, "GESTION DE PROYECTOS TICS");
